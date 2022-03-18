@@ -1,0 +1,39 @@
+{
+  "productosOfertas": [
+    {
+      "id": 1,
+      "nombre": "Limon con semilla",
+      "precio": 39.9,
+      "descuento": 26.82,
+      "img": "https://res.cloudinary.com/dorkyjlu8/image/upload/v1647569518/e-commerce/img1_t73ev5.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Tomate",
+      "precio": 32.9,
+      "descuento": 21.79,
+      "img": "https://res.cloudinary.com/dorkyjlu8/image/upload/v1647569518/e-commerce/img2_tmorp9.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Aguacate Hass",
+      "precio": 59.9,
+      "descuento": 56.8,
+      "img": "https://res.cloudinary.com/dorkyjlu8/image/upload/v1647569518/e-commerce/img3_ym3zif.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Nopal Limpio",
+      "precio": 29.9,
+      "descuento": 25.8,
+      "img": "https://res.cloudinary.com/dorkyjlu8/image/upload/v1647569518/e-commerce/img4_in593l.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Tomate Verde sin cascara",
+      "precio": 24.9,
+      "descuento": 22.89,
+      "img": "https://res.cloudinary.com/dorkyjlu8/image/upload/v1647569518/e-commerce/img5_fxcqmu.png"
+    }
+  ]
+}

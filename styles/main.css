@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Spartan:wght@500&display=swap');
+
+
+*{
+    font-family: 'Inter', sans-serif;
+}
+
+#btn-modal{
+    margin-right: 5%;
+}
+
+.lbl-nav{
+    margin-left: 5%;
+}
+
+.modal-content{
+    margin-top: -5%;
+    margin-left: 142%;
+    padding-bottom: 500%;
+}
+
+#img-layer{
+    padding: 2% 15%;
+}
+
+#txt-layer{
+    padding: 8% 30%;
+    position: absolute;
+    color: aliceblue;
+}
+
+#title-opc{
+    margin: 2% 0;
+}
+
+.oft-row{
+    
+    padding-left: 10%;
+}
